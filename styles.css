@@ -3,6 +3,7 @@ body {
     letter-spacing: 2px;
     margin: 25px 15px 45px 15px;
     background-color: red;
+    text-shadow: 2px 2px white;
 }
 h1 {
     font-family: "Oxygen";
