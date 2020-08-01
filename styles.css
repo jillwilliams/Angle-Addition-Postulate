@@ -1,8 +1,8 @@
 body {
     font-family: "Oxygen";
     letter-spacing: 2px;
-    margin: 25px 15px 45px 15px
-
+    margin: 25px 15px 45px 15px;
+    background-color: red;
 }
 h1 {
     font-family: "Oxygen";
@@ -24,7 +24,8 @@ li {
     height: auto;
     margin-left: 25%;
     margin-right: 25%;
-    margin-top: -25px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 
 }
 #pic2, #pic4, #pic6, #pic8, #pic10 {
@@ -32,15 +33,16 @@ li {
     height: auto;
     margin-left: 35%;
     margin-right: 35%;
-    margin-top: -45px;
-
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 #pic3, #pic5, #pic7, #pic9, #pic11 {
     width: 60%;
     height: auto;
     margin-left: 20%;
     margin-right: 20%;
-    margin-top: 1px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 
 }
 
