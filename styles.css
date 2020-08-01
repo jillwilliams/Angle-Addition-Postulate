@@ -1,0 +1,55 @@
+body {
+    font-family: "Oxygen";
+    letter-spacing: 2px;
+    margin: 25px 15px 45px 15px
+
+}
+h1 {
+    font-family: "Oxygen";
+    font-size: 2rem;
+    text-align: center;
+
+}
+p {
+    font-size: 1.5rem;
+
+}
+li {
+    font-family: "Oxygen";
+    font-size: 1.5rem;
+
+}
+#pic1 {
+    width: 50%;
+    height: auto;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: -25px;
+
+}
+#pic2, #pic4, #pic6, #pic8, #pic10 {
+    width: 30%;
+    height: auto;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: -45px;
+
+}
+#pic3, #pic5, #pic7, #pic9, #pic11 {
+    width: 60%;
+    height: auto;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 1px;
+
+}
+
+
+
+
+
+
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
