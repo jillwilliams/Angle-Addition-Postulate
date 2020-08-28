@@ -8,16 +8,13 @@ h1 {
     font-family: "Oxygen";
     font-size: 2rem;
     text-align: center;
-
 }
 p {
     font-size: 1.5rem;
-
 }
 li {
     font-family: "Oxygen";
     font-size: 1.5rem;
-
 }
 #pic1 {
     width: 50%;
@@ -26,7 +23,6 @@ li {
     margin-right: 25%;
     margin-top: 15px;
     margin-bottom: 15px;
-
 }
 #pic2, #pic4, #pic6, #pic8, #pic10 {
     width: 30%;
@@ -43,9 +39,11 @@ li {
     margin-right: 20%;
     margin-top: 15px;
     margin-bottom: 15px;
-
 }
-
+iframe {
+    margin: 15px 33% 15px 33%;
+    border: 1px black solid;
+}
 footer {
     text-align: center;
     font-size: 1rem;
